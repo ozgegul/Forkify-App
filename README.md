@@ -9,4 +9,4 @@ Please try it from here; https://forkify-ozgegul.netlify.app
 
 Here’s how it looks like;
 
-<img width="1412" alt="Forkify App" src="https://github.com/ozgegul/Forkify-App/assets/98915729/db1aa92f-b1bd-40e6-b941-698c0c986c46">
+<img width="1412" alt="Forkify App" src="https://github.com/ozgegul/Forkify-App/assets/98915729/0c97bbef-74f3-4cfe-bfa3-72f92d3285f1">
